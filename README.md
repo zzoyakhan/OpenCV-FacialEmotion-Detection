@@ -1,2 +1,26 @@
-# OpenCV-FacialEmotion-Detection
-This project implements real-time facial detection using OpenCV and integrates emotion recognition with DeepFace. It leverages Haar cascade classifiers for face detection and deep learning models for emotion analysis, providing an interactive and efficient way to analyze human expressions in live video feeds.
+# OpenCV Facial & Emotion Detection 
+
+This project uses OpenCV for face detection and DeepFace for real-time emotion recognition.
+
+## Installation    
+Run the following command to install dependencies:  
+```bash
+pip install opencv-python numpy deepface
+```
+Usage:
+```bash
+
+python emotion_detection.py
+```
+Features 💡:   
+➤ Real-time face detection with OpenCV  
+➤ Emotion classification using DeepFace  
+➤ Displays detected emotions directly on the video feed  
+➤ Press 'q' to exit the program  
+
+
+Dependencies 🛠️:
+OpenCV,
+NumPy,
+DeepFace
+
