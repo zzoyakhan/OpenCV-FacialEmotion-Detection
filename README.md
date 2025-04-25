@@ -12,14 +12,14 @@ Usage:
 
 python emotion_detection.py
 ```
-Features 💡:   
+Features:   
 ➤ Real-time face detection with OpenCV  
 ➤ Emotion classification using DeepFace  
 ➤ Displays detected emotions directly on the video feed  
 ➤ Press 'q' to exit the program  
 
 
-Dependencies 🛠️:
+Dependencies:
 OpenCV,
 NumPy,
 DeepFace
